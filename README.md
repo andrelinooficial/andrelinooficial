@@ -1,5 +1,6 @@
 <img src="/titulo.png">
 <h3 align="center">Analista de TI: Infraestrutura / Desenvolvimento Web</h3>
+<br><br>
 
 - 🔭 Atualmente estou trabalhando com Desenvolvimento Web PHP, Acesse o meu novo projeto: https://openkit.com.br
 
