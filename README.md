@@ -9,7 +9,7 @@
 - ▶️ Compartilhando conhecimentos no youtube: [WebTutoriais](https://www.youtube.com/@webtutoriaistec)
 
 <br><br>
-- 🙇🏽‍♂️ Meus Cursos em andamento atualmente:
+- 🙇🏽‍♂️ Estudando atualmente:
 <ul>
            <ol>Bug Bounty - Gabriel Pato: https://pato.academy<br> </ol>
             <ol>Inteligência e Contrainteligência: https://pato.academy<br> </ol>
