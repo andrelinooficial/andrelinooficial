@@ -1,7 +1,7 @@
 <img src="/titulo.png">
 <h3 align="center">Analista de TI: Infraestrutura / Desenvolvimento Web</h3>
 
-<br><br>
+<br>
 - 🔭 Atualmente estou trabalhando com Desenvolvimento Web PHP, Acesse o meu novo projeto: https://openkit.com.br
 
 - 🙇🏽‍♂️ Estou estudando PHP 8 e Bootstrap 5 através do https://www.cursoemvideo.com/ e https://cursa.com.br
