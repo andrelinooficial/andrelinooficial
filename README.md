@@ -6,6 +6,9 @@
 
 - 🔭 Atualmente estou trabalhando em um projeto pessoal desenvolvimento Web com PHP: https://openkit.com.br
 
+- ▶️ Compartilhando conhecimentos no youtube: [WebTutoriais](https://www.youtube.com/@webtutoriaistec)
+
+<br><br>
 - 🙇🏽‍♂️ Meus Cursos em andamento atualmente:
 <ul>
            <ol>Bug Bounty - Gabriel Pato: https://pato.academy<br> </ol>
@@ -15,7 +18,7 @@
           
 </ul>
 
-- ▶️ Compartilhando conhecimentos no youtube: [WebTutoriais](https://www.youtube.com/@webtutoriaistec)
+
 
 - 🌐 Acesse o Meu Portfólio Completo: [andrelinooficial.com.br](andrelinooficial.com.br)
 
