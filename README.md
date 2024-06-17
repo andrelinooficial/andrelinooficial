@@ -7,7 +7,10 @@
 - 🔭 Atualmente estou trabalhando em um projeto pessoal desenvolvimento Web com PHP: https://openkit.com.br
 
 - 🙇🏽‍♂️ Meus Cursos em andamento atualmente:<br>
-          Bug Bounty - Gabriel Pato: https://pato.academy<br>
+<ul>
+           Bug Bounty - Gabriel Pato: https://pato.academy<br>
+</ul>
+         
           Inteligência e Contrainteligência: https://pato.academy<br>
           PHP Moderno - Gustavo Guanabara: https://cursoemvideo.com<br>
           Bootstrap 5 - Cursa: https://cursa.com.br<br>
