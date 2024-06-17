@@ -7,9 +7,9 @@
 - 🔭 Atualmente estou trabalhando em um projeto pessoal desenvolvimento Web com PHP: https://openkit.com.br
 
 - 🙇🏽‍♂️ Meus Cursos em andamento atualmente:<br>
-<ul><li>
+<ul><la>
            Bug Bounty - Gabriel Pato: https://pato.academy<br>
-           </li>
+           </la>
 </ul>
          
           Inteligência e Contrainteligência: https://pato.academy<br>
