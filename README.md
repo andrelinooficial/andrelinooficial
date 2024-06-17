@@ -19,7 +19,7 @@
 </ul>
 
 
-
+<br><br>
 - 🌐 Acesse o Meu Portfólio Completo: [andrelinooficial.com.br](andrelinooficial.com.br)
 
 - ✉️ Você me encontra no e-mail: **contato@andrelinooficial.com.br**
