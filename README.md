@@ -4,7 +4,7 @@
 
 - 🔭 Sou Analista de TI em: https://www.regsa.com.br
 
-- 🔭 Atualmente estou trabalhando em um projeto pessoal desenvolvimento Web com PHP: https://openkit.com.br
+- 🌐 Atualmente estou trabalhando em um projeto pessoal desenvolvimento Web com PHP: https://openkit.com.br
 
 - ▶️ Compartilhando conhecimentos no youtube: [WebTutoriais](https://www.youtube.com/@webtutoriaistec)
 
