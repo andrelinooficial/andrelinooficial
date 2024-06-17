@@ -2,9 +2,15 @@
 <h3 align="center">TI Infraestrutura / Desenvolvimento Web</h3>
 <br><br>
 
-- 🔭 Atualmente estou trabalhando com Desenvolvimento Web PHP, Acesse o meu novo projeto: https://openkit.com.br
+- 🔭 Sou Analista de TI em: https://www.regsa.com.br
 
-- 🙇🏽‍♂️ Estou estudando PHP 8 e Bootstrap 5 através do https://www.cursoemvideo.com/ e https://cursa.com.br
+- 🔭 Atualmente estou trabalhando em um projeto pessoal desenvolvimento Web com PHP: https://openkit.com.br
+
+- 🙇🏽‍♂️ Meus Cursos em andamento atualmente:
+          Bug Bounty - Gabriel Pato: https://pato.academy
+          Inteligência e Contrainteligência: https://pato.academy
+          PHP Moderno - Gustavo Guanabara: https://cursoemvideo.com
+          Bootstrap 5 - Cursa: https://cursa.com.br
 
 - ▶️ Compartilhando conhecimentos no youtube: [WebTutoriais](https://www.youtube.com/@webtutoriaistec)
 
