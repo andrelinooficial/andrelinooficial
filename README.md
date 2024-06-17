@@ -1,4 +1,4 @@
-<h1 atyle="color:red;" align="center">Oi 👋, eu sou Andrelino Lima</h1>
+<h1 style="color:red;" align="center">Oi 👋, eu sou Andrelino Lima</h1>
 <h3 align="center">Analista de TI: Infraestrutura / Desenvolvimento Web</h3>
 <br><br>
 - 🔭 Atualmente estou trabalhando com Desenvolvimento Web PHP, Acesse o meu novo projeto: https://openkit.com.br
