@@ -6,7 +6,7 @@
 
 - 🌐 Atualmente estou trabalhando em um projeto pessoal desenvolvimento Web com PHP: https://openkit.com.br
 
-- ▶️ Compartilhando conhecimentos no youtube: [WebTutoriais](https://www.youtube.com/@webtutoriaistec)
+- ▶️ Sou criador de conteúdo para o youtube: [WebTutoriais](https://www.youtube.com/@webtutoriaistec)
 
 <br><br>
 - 🙇🏽‍♂️ Estudando atualmente:
