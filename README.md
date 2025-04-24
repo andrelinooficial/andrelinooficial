@@ -1,5 +1,5 @@
 <img src="/titulo.png">
-<h3 align="center">Analista de TI / Desenvolvedor Web</h3>
+<h3 align="center">Analista de Tecnologia da Informação</h3>
 <br><br>
 
 - 🔭 Sou Analista de TI em: https://www.regsa.com.br
