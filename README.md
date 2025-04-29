@@ -4,9 +4,9 @@
 
 - 🔭 Sou Analista de TI em: https://www.regsa.com.br
 
-- 🌐 Atualmente estou trabalhando em um projeto pessoal desenvolvimento Web com PHP: https://openkit.com.br
+- 🌐 Atualmente estou trabalhando em um projeto mobile para inventário com leitor de código de Barras: [Acessar](https://#)
 
-- ▶️ Sou criador de conteúdo para o youtube: [WebTutoriais](https://www.youtube.com/@webtutoriaistec)
+- ▶️ Sou criador de conteúdo para o youtube: [andreinformatica](https://www.youtube.com/@andre.informatica)
 
 <br><br>
 - 🙇🏽‍♂️ Estudando atualmente:
