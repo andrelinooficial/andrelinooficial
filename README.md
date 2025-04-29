@@ -2,7 +2,7 @@
 <h3 align="center">Analista de Tecnologia da Informação</h3>
 <br><br>
 
-- 🔭 Sou Analista de TI em: https://www.regsa.com.br
+- 🔭 Sou Analista de TI em: [Regsa Metalúrgica](https://www.regsa.com.br)
 
 - 🌐 Atualmente estou trabalhando em um projeto mobile para inventário com leitor de código de Barras: [Acessar](https://#)
 
