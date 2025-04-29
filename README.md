@@ -14,7 +14,7 @@
            <ol>DevOps - 4Linux: https://4linux.com.br<br> </ol>
             <ol>Administração de Servidores Windows: SENAI - SP<br> </ol>
              <ol>PHP Moderno - Gustavo Guanabara: https://cursoemvideo.com<br> </ol>
-              <ol>Javascript - Cursa: https://www.youtube.com/@programacaoweb<br></ol>
+              <ol>Javascript - Programação Web: https://www.youtube.com/@programacaoweb<br></ol>
           
 </ul>
 
