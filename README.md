@@ -6,7 +6,7 @@
 
 - 🌐 Atualmente estou trabalhando em um projeto mobile para inventário com leitor de código de Barras: [Acessar](https://#)
 
-- ▶️ Sou criador de conteúdo para o youtube: [andreinformatica](https://www.youtube.com/@andre.informatica)
+- ▶️ Sou criador de conteúdo para o youtube: [youtube.com/@andre.informatica](https://www.youtube.com/@andre.informatica)
 
 <br><br>
 - 🙇🏽‍♂️ Estudando atualmente:
