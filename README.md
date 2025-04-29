@@ -20,9 +20,9 @@
 
 
 <br><br>
-- 🌐 Acesse o Meu Portfólio Completo: [andrelinooficial.com.br](andrelinooficial.com.br)
+- 🌐 Acesse o Meu Portfólio Completo em: [andreinformatica.com](https://andreinformatica.com)
 
-- ✉️ Você me encontra no e-mail: **contato@andrelinooficial.com.br**
+- ✉️ Você me encontra no e-mail: **contato@andreinformatica.com**
 
 
 <p align="left">
