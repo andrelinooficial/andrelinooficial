@@ -11,8 +11,8 @@
 <br><br>
 - 🙇🏽‍♂️ Estudando atualmente:
 <ul>
-           <ol>Bug Bounty - Gabriel Pato: https://pato.academy<br> </ol>
-            <ol>Inteligência e Contrainteligência: https://pato.academy<br> </ol>
+           <ol>DevOps - 4Linux: https://4linux.com.br<br> </ol>
+            <ol>Administração de Servidores Windows: SENAI - SP<br> </ol>
              <ol>PHP Moderno - Gustavo Guanabara: https://cursoemvideo.com<br> </ol>
               <ol>Bootstrap 5 - Cursa: https://cursa.com.br<br></ol>
           
