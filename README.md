@@ -5,7 +5,7 @@
 
 - 🔭 Analista de TI em: [Regsa Metalúrgica](https://www.regsa.com.br)
 
-- 🌐 Trabalhando em projetos pessoais, saiba mais em [Acessar](https://#)
+- 🌐 Trabalhando em projetos pessoais, saiba mais em [nodigital.com.br](https://#)
 
 - ▶️ Criador de conteúdo para o youtube: [youtube.com/@andre.informatica](https://www.youtube.com/@andre.informatica)
 
