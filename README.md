@@ -1,5 +1,5 @@
 <img src="/titulo.png">
-<h3 align="center">Analista de Tecnologia da Informação</h3>
+<h3 align="center">technology analyst</h3>
 <h3 align="center">9 years of experience</h3>
 <br><br>
 
