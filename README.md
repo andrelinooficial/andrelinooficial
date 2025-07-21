@@ -3,11 +3,13 @@
 <h3 align="center">9 years of experience</h3>
 <br><br>
 
-- 🔭 Analista de TI em: [Regsa Metalúrgica](https://www.regsa.com.br)
+- 🌐 Analista de TI em: [Regsa Metalúrgica](https://www.regsa.com.br)
 
-- 🌐 Trabalhando em projetos pessoais, saiba mais em [nodigital.com.br](https://#)
+- 🌐 Trabalhando em projetos pessoais, saiba mais em: [nodigital.com.br](https://#)
 
-- ▶️ Criador de conteúdo para o youtube: [youtube.com/@andre.informatica](https://www.youtube.com/@andre.informatica)
+- ▶️ Criador de conteúdo para o youtube: [@andre.informatica](https://www.youtube.com/@andre.informatica)
+
+- ▶️ Meu website: [andreinformatica.com](https://www.andreinformatica.com)
 
 <br><br>
 - 🙇🏽‍♂️ Estudando atualmente:
