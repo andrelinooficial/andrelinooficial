@@ -5,9 +5,9 @@
 
 - 🔭 Analista de TI em: [Regsa Metalúrgica](https://www.regsa.com.br)
 
-- 🌐 Atualmente estou trabalhando em um projeto mobile para inventário com leitor de código de Barras: [Acessar](https://#)
+- 🌐 Trabalhando em projetos pessoais, saiba mais em [Acessar](https://#)
 
-- ▶️ Sou criador de conteúdo para o youtube: [youtube.com/@andre.informatica](https://www.youtube.com/@andre.informatica)
+- ▶️ Criador de conteúdo para o youtube: [youtube.com/@andre.informatica](https://www.youtube.com/@andre.informatica)
 
 <br><br>
 - 🙇🏽‍♂️ Estudando atualmente:
