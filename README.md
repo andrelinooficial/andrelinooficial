@@ -34,6 +34,8 @@
 
 - ✉️ Você me encontra no e-mail: *contato@andreinformatica.com*
 
+- 📱 Você me encontra no Whatsapp: *(11)98364-1085*
+
 
 <p align="left">
 </p>
