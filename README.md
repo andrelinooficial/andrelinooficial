@@ -1,7 +1,13 @@
-<img src="/titulo.png">
-<h3 align="center">Information technology analyst</h3>
-<h3 align="center">9 years of experience</h3>
+<img src="titulo.png">
+<h3 align="center">Analista de Tecnologia da Informação</h3>
+<h3 align="center">Criador do projeto OPENKIT</h3>
 <br><br>
+
+<div>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=andrelinooficial&show_icons=true&theme=dark"/>
+<img height="170em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelinooficial&hide_progress=true&theme=dark"/>
+</div>
+
 
 - 🌐 Analista de TI em: [Regsa Metalúrgica](https://www.regsa.com.br)
 
