@@ -24,6 +24,7 @@
 - 🙇🏽‍♂️ Estudando atualmente:
 <ul>
            <ol>DevOps & Agile Culture - FIAP<br> </ol>
+            <ol>FullStack Developer - CodeStart<br> </ol>
             <ol>Proxmox VE - Projeto Empresa Livre<br> </ol>
             
           
