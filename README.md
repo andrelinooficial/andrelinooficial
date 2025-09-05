@@ -1,6 +1,6 @@
 <img src="titulo.png">
 <h3 align="center">Analista de Tecnologia da Informação</h3>
-<h3 align="center">Criador do projeto <a href="openkit.com.br">OpenKit</a></h3>
+<h3 align="center">Criador do projeto <a href="https://openkit.com.br">OpenKit</a></h3>
 <br><br>
 
 <div>
