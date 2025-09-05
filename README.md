@@ -12,7 +12,7 @@
 
 - 🌐 Analista de TI em: [Regsa Metalúrgica](https://www.regsa.com.br)
 
-- 🌐 Projeto pessoal: [openkit.com.br](https://#)
+- 🌐 Projeto pessoal: [openkit.com.br](https://openkit.com.br)
 
 - 🌐 Treinamentos / Consultoria - Saiba Mais em: [andreinformatica.com](https://#)
 
