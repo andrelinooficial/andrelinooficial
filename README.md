@@ -1,6 +1,6 @@
 <img src="titulo.png">
 <h3 align="center">Analista de Tecnologia da Informação</h3>
-<h3 align="center">Criador do projeto OPENKIT</h3>
+<h3 align="center">Criador do projeto <a href="openkit.com.br">OpenKit</a></h3>
 <br><br>
 
 <div>
@@ -8,30 +8,31 @@
 <img height="150em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelinooficial&hide_progress=true&theme=radical"/>
 </div>
 
+<br>
 
 - 🌐 Analista de TI em: [Regsa Metalúrgica](https://www.regsa.com.br)
 
-- 🌐 Trabalhando em projetos pessoais, saiba mais em: [nodigital.com.br](https://#)
+- 🌐 Projeto pessoal: [openkit.com.br](https://#)
 
-- ▶️ Criador de conteúdo para o youtube: [@andre.informatica](https://www.youtube.com/@andre.informatica)
+- 🌐 Treinamentos / Consultoria - Saiba Mais em: [andreinformatica.com](https://#)
 
-- ▶️ Meu website: [andreinformatica.com](https://www.andreinformatica.com)
+- ▶️ Youtube: [@andre.informatica](https://www.youtube.com/@andre.informatica)
+
+- ▶️ Website / Portfólio: [andreinformatica.com](https://www.andreinformatica.com)
 
 <br><br>
 - 🙇🏽‍♂️ Estudando atualmente:
 <ul>
-           <ol>DevOps - 4Linux: https://4linux.com.br<br> </ol>
-            <ol>Administração de Servidores Windows: SENAI - SP<br> </ol>
-             <ol>PHP Moderno - Gustavo Guanabara: https://cursoemvideo.com<br> </ol>
-              <ol>Javascript - Programação Web: https://www.youtube.com/@programacaoweb<br></ol>
+           <ol>DevOps & Agile Culture - FIAP<br> </ol>
+            <ol>Proxmox VE - Projeto Empresa Livre<br> </ol>
+            
           
 </ul>
 
 
 <br><br>
-- 🌐 Acesse o Meu Portfólio Completo em: [andreinformatica.com](https://andreinformatica.com)
 
-- ✉️ Você me encontra no e-mail: **contato@andreinformatica.com**
+- ✉️ Você me encontra no e-mail: *contato@andreinformatica.com*
 
 
 <p align="left">
