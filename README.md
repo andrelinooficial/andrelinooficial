@@ -50,6 +50,13 @@
 - Configurações de Switchs e Roteadores;
 - TCP / IPV4;
 
+<h4 align="left">Cibersegurança:</h4>
+
+- Antivírus - BitDefender Gravityzone;
+- Monitoramento de Infraestrutura - Zabbix / Grafana;
+- Noções de segurança de Firewall;
+- Políticas de acesso;
+- Conscientização em Cibersegurança;
 
 
 <h4 align="left">Infraestrutura</h4>
