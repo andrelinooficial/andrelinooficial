@@ -5,13 +5,11 @@ Analista de TI - Empreendedor
 </h3>
 
 <p>
-Sou profissional de Tecnologia da Informação com mais de 10 anos de experiência em infraestrutura de TI, redes corporativas, servidores Linux/Windows, computação em nuvem e arquitetura de sistemas.
+Profissional de TI com mais de 10 anos de experiência em infraestrutura, cloud computing, redes e desenvolvimento de aplicações.
 
-Atuo também no desenvolvimento de aplicações e soluções SaaS, criando plataformas voltadas para automação de processos empresariais, integrando tecnologias modernas e recursos de Inteligência Artificial para aumentar eficiência e produtividade organizacional.
+Desenvolvedor de soluções SaaS voltadas à automação de processos empresariais com uso de tecnologias modernas e Inteligência Artificial.
 
-Sou Microempreendedor Individual (MEI) na área de Tecnologia, desenvolvendo projetos, consultorias e soluções digitais sob demanda. Busco constantemente aprimorar minhas habilidades, acompanhando a evolução das tecnologias e aplicando boas práticas de DevOps, cloud e desenvolvimento moderno.
-
-Também sou criador do projeto NODIGITAL, iniciativa focada em soluções e inovação tecnológica. <br>
+Fundador da NODIGITAL, iniciativa focada em inovação e desenvolvimento de soluções tecnológicas. <br>
 
 🔗 https://nodigital.com.br  
 </p>
