@@ -1,5 +1,5 @@
 <h1 align="center">André Lima</h1>
-
+<img src="titulo.png">
 <h3 align="center">
 Analista de TI - Empreendedor
 </h3>
