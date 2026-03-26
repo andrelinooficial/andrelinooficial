@@ -4,7 +4,7 @@ Analista de TI - Empreendedor
 </h3> <br>
 
 <p>
-Profissional de Tecnologia com mais de 10 anos de experiência em infraestrutura, cloud computing, redes e desenvolvimento de aplicações.
+Profissional de Tecnologia com mais de 10 anos de experiência em infraestrutura, cloud computing, redes, Cibersegurança e desenvolvimento de aplicações.
 
 Desenvolvedor de soluções SaaS voltadas à automação de processos empresariais com uso de tecnologias modernas e Inteligência Artificial.
 
