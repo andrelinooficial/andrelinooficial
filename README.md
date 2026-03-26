@@ -4,7 +4,7 @@
 Analista de TI - Empreendedor
 </h3>
 
-<p align="center">
+<p>
 Sou profissional de Tecnologia da Informação com mais de 10 anos de experiência em infraestrutura de TI, redes corporativas, servidores Linux/Windows, computação em nuvem e arquitetura de sistemas.
 
 Atuo também no desenvolvimento de aplicações e soluções SaaS, criando plataformas voltadas para automação de processos empresariais, integrando tecnologias modernas e recursos de Inteligência Artificial para aumentar eficiência e produtividade organizacional.
