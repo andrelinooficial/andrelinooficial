@@ -1,8 +1,7 @@
-<h1 align="center">André Lima</h1>
 <img src="titulo.png">
 <h3 align="center">
 Analista de TI - Empreendedor
-</h3>
+</h3> <br>
 
 <p>
 Profissional de TI com mais de 10 anos de experiência em infraestrutura, cloud computing, redes e desenvolvimento de aplicações.
