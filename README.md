@@ -4,11 +4,11 @@ Analista de TI - Empreendedor
 </h3> <br>
 
 <p>
-Profissional de TI com mais de 10 anos de experiência em infraestrutura, cloud computing, redes e desenvolvimento de aplicações.
+Profissional de Tecnologia com mais de 10 anos de experiência em infraestrutura, cloud computing, redes e desenvolvimento de aplicações.
 
 Desenvolvedor de soluções SaaS voltadas à automação de processos empresariais com uso de tecnologias modernas e Inteligência Artificial.
 
-Fundador da NODIGITAL, iniciativa focada em inovação e desenvolvimento de soluções tecnológicas. <br>
+Empreendedor Individual, fundador da NODIGITAL, iniciativa focada em inovação e desenvolvimento de soluções tecnológicas. <br>
 
 🔗 https://nodigital.com.br  
 </p>
