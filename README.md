@@ -1,12 +1,12 @@
 <h1 align="center">André Lima</h1>
 
 <h3 align="center">
-Analista de Tecnologia da Informação | Infraestrutura | DevOps | Desenvolvimento Web
+Analista de TI - Empreendedor
 </h3>
 
 <p align="center">
-Profissional de TI com mais de 10 anos de experiência em infraestrutura, redes, servidores Linux/Windows, Cloud Computer, Arquitetura e desenvolvimento de aplicações.
-Criador de soluções SaaS e aplicações corporativas voltadas para automação de processos empresariais. Atualmente sou Micro Empreendedor Individual na área de Tecnologia - https://nodigital.com.br
+Sou profissional de Tecnologia com mais de 10 anos de experiência em infraestrutura, redes, servidores Linux/Windows, Cloud Computer, Arquitetura e desenvolvimento de aplicações.
+Atualmente desenvolvo soluções SaaS e aplicações corporativas voltadas para automação de processos empresariais. Sou Micro Empreendedor Individual na área de Tecnologia e procuro sempre buscar conhecimento me adaptando as novas tecnologias - https://nodigital.com.br
 </p>
 
 ---
