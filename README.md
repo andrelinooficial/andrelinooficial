@@ -13,7 +13,7 @@ Sou Microempreendedor Individual (MEI) na área de Tecnologia, desenvolvendo pro
 
 Também sou criador do projeto NODIGITAL, iniciativa focada em soluções e inovação tecnológica. <br>
 
-🔗 https://appdrive.com.br  
+🔗 https://nodigital.com.br  
 </p>
 
 ---
@@ -36,6 +36,11 @@ Sistema completo para **gestão de locação de automóveis**.
 - Integração API de pagamentos Pix
 - Inteligência Artificial embarcada - Groq / GPT OpenIA
 - Plataforma SaaS Multi-Empresa
+
+**Principais tecnologias:**
+- HTML, CSS, JS, TYPESCRIPT
+- POSTGRESQL / Supabase Auth - Storage
+- Cloudflare / Vercel / Supabase
 ---
 
 ### 💬 CorpChat — Chat Corporativo
