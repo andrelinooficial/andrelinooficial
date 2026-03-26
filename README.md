@@ -23,21 +23,28 @@ Sistema completo para **gestão de locação de automóveis**.
 🔗 https://appdrive.com.br  
 
 **Principais recursos:**
-- Gestão de contratos de locação
-- Cadastro de veículos e clientes
-- IPVA
-- Multas
-- Relatórios
+- Gestão completa de contratos de locação
+- Cadastro e gerenciamento de veículos
+- Cadastro de clientes
+- Controle de IPVA
+- Gestão de multas
+- Relatórios gerenciais
 - Controle financeiro
 - Dashboard administrativo
-- Integração API de pagamentos Pix
-- Inteligência Artificial embarcada - Groq / GPT OpenIA
-- Plataforma SaaS Multi-Empresa
+- Integração com API de pagamentos (Pix)
+- Inteligência Artificial embarcada (Groq / OpenAI GPT)
+- Plataforma SaaS Multiempresa (Multi-tenant)
 
 **Principais tecnologias:**
-- HTML, CSS, JS, TYPESCRIPT
-- POSTGRESQL / Supabase Auth - Storage
-- Cloudflare / Vercel / Supabase
+***Frontend:***
+- HTML
+- CSS
+- Javascript
+- Typescript
+
+***Backend & Database:***
+- PostgreSQL
+- Supabase (Auth / Storage)
 ---
 
 ### 💬 CorpChat — Chat Corporativo
