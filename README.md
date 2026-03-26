@@ -1,89 +1,121 @@
-<img src="titulo.png">
-<h3 align="center">Analista de Tecnologia da Informação</h3>
-<h3 align="center">Projeto Pessoal em destaque <a href="https://appdrive.com.br">AppDrive - SaaS Gestão de Locações</a></h3>
-<br><br>
+<h1 align="center">André Lima</h1>
+
+<h3 align="center">
+Analista de Tecnologia da Informação | Infraestrutura | DevOps | Desenvolvimento Web
+</h3>
+
+<p align="center">
+Profissional de TI com mais de 10 anos de experiência em infraestrutura, redes, servidores Linux/Windows, Cloud Computer, Arquitetura e desenvolvimento de aplicações.
+Criador de soluções SaaS e aplicações corporativas voltadas para automação de processos empresariais. Atualmente sou Micro Empreendedor Individual na área de Tecnologia - https://nodigital.com.br
+</p>
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🚗 AppDrive — SaaS Gestão de Locações
+Sistema completo para **gestão de locação de automóveis**.
+
+🔗 https://appdrive.com.br  
+
+**Principais recursos:**
+- Gestão de contratos de locação
+- Cadastro de veículos e clientes
+- IPVA
+- Multas
+- Relatórios
+- Controle financeiro
+- Dashboard administrativo
+- Integração API de pagamentos Pix
+- Inteligência Artificial embarcada - Groq / GPT OpenIA
+- Plataforma SaaS Multi-Empresa
+---
+
+### 💬 CorpChat — Chat Corporativo
+Aplicação de **comunicação interna para empresas**, distribuída em container Docker.
+
+📦 Docker Hub: https://hub.docker.com  
+🐳 Deploy simplificado via Docker  
+
+**Principais recursos:**
+
+- Chat interno corporativo - Estilo Whatsapp Web
+- Comunicação em tempo real com possibilidade de envio de anexos
+- Deploy rápido em containers
+- Ideal para ambientes empresariais Simples
+- 
+---
+
+## 💼 Experiências Anteriores
+
+- 🌐 Suporte de TI — Hospital Geral de Itapevi
+Realizei tarefas de suporte a usuários em ambiente de rede Microsoft
+
+- 🌐 Assistente de TI — Hospital Infantil Sabará
+Realizei tarefas de Gestão de TI - Apoio em análise de contrartos, custos de Infraestrutura de TI, Gestão de Equipe.
+
+- 🌐 Analista de TI — Regsa Metalúrgica  
+Realizei tarefas de pesquisas e implementação de novas tecnologias em ambiente Híbrido, segurança da informação, sempre com foco em melhoria contínua e redução de custos de infraestrutura
+
+---
+
+## 📚 Atualmente Estudando
+
+- DevOps & Agile Culture — FIAP
+- FullStack Developer — CodeStart
+- Proxmox VE — Projeto Empresa Livre
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### Infraestrutura
+- Linux (Debian / Rocky Linux)
+- Windows Server
+- DNS / DHCP
+- Active Directory
+- Virtualização
+- NAS / Backup
+- Microsoft 365
+
+### Redes
+- VLAN
+- TCP/IP
+- Unifi Controller
+- Configuração de Switches e Roteadores
+- Cabeamento estruturado
+
+### Monitoramento & Segurança
+- Zabbix
+- Grafana
+- BitDefender GravityZone
+- Políticas de segurança
+- Firewall
+
+### Desenvolvimento
+- HTML
+- CSS
+- Javascript
+- React
+- Node.js
+- Bootstrap
+- Wordpress
+- Git / GitHub
+
+---
+
+## 📊 Estatísticas GitHub
 
 <div>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andrelinooficial&show_icons=true&theme=radical"/>
-<img height="150em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelinooficial&hide_progress=true&theme=radical"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelinooficial&layout=compact&theme=radical"/>
 </div>
 
-<br>
+---
 
-- 🌐 Analista de TI em: [Regsa Metalúrgica](https://www.regsa.com.br)
+## 📫 Contato
 
-- 🌐 Projeto pessoal: [openkit.com.br](https://openkit.com.br)
+📧andre@nodigital.com.br 
 
-- 🌐 Treinamentos / Consultoria - Saiba Mais em: [andreinformatica.com](https://#)
-
-- ▶️ Youtube: [@andre.informatica](https://www.youtube.com/@andre.informatica)
-
-- ▶️ Website / Portfólio: [andreinformatica.com](https://www.andreinformatica.com)
-
-<br><br>
-- 🙇🏽‍♂️ Estudando atualmente:
-<ul>
-           <ol></ol>
-            <ol>DevOps & Agile Culture - FIAP</ol>
-            <ol>FullStack Developer - CodeStart</ol>
-            <ol>Proxmox VE - Projeto Empresa Livre<br> </ol>
-</ul>
-
-
-<br><br>
-
-- ✉️ Você me encontra no e-mail: *contato@andreinformatica.com*
-
-- 📱 Você me encontra no Whatsapp: *(11)98364-1085*
-
-
-<p align="left">
-</p>
-<br><br>
-<h3 align="left">Habilidades:</h3>
-
-<h4 align="left">Rede de Computadores:</h4>
-
-- Unifi Controler - Redes sem fio;
-- VLAN;
-- Cabeamento UTP / Crimpagem RJ45;
-- Configurações de Switchs e Roteadores;
-- TCP / IPV4;
-
-<h4 align="left">Cibersegurança:</h4>
-
-- Antivírus - BitDefender Gravityzone;
-- Monitoramento de Infraestrutura - Zabbix / Grafana;
-- Noções de segurança de Firewall;
-- Políticas de acesso;
-- Conscientização em Cibersegurança;
-
-
-<h4 align="left">Infraestrutura</h4>
-
-- Administração de Servidores Windows;
-- Administração de Servidores Linux (Debian / Rock Linux);
-- DNS;
-- DHCP;
-- HTTP;
-- Active Directory;
-- Web Server - PHP / Apache / Nginx Reverse Proxy;
-- Virtualização de Servidores;
-- NAS Soluções de Backups;
-- Implantação de banco de Dados SQL / Mysql / Supabase;
-- Domínio e Hospedagem;
-- Microsoft 365;
-- Hardware Desktop / Servidores (Manutenção Preventiva e Corretiva);
-
-
-<h4 align="left">Desenvolvimento:</h4>
-
-- Wordpress;
-- Noções de soluções Nocode (Bubble);
-- Git & GitHub;
-- HTML;
-- CSS;
-- Javascript;
-- Bootstrap;
-- React;
-- NodeJS;
+📱 WhatsApp  
+(11) 98364-1085
