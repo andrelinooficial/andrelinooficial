@@ -48,13 +48,7 @@ Sistema SaaS para gestão de locação de veículos, com arquitetura multiempres
 
 **Resumo de Arquitetura:**
 
-Cloudflare
-↓
-Vercel (React)
-↓
-Supabase
-↓
-OpenAI / Groq
+Cloudflare > Vercel (React) > Supabase > OpenAI / Groq
 
 
 ---
