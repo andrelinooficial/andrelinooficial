@@ -1,12 +1,12 @@
 <img src="titulo.png" style="height: 50px;">
 <h3 >
-Analista de Tecnologia | Infraestrutura, desenvolvimento & IA
+Analista de Tecnologia
 </h3>
 
 <br>
 
 <p>
-Atuo profissionalmente com infraestrutura de TI e desenvolvimento de aplicações web modernas, com foco em React, TypeScript, Tailwind CSS e arquiteturas BaaS utilizando Supabase.
+Atuo profissionalmente com infraestrutura de TI e desenvolvimento de aplicações web, com foco em React, TypeScript, Tailwind CSS e arquiteturas BaaS utilizando Supabase.
 
 Possuo experiência em projetos envolvendo arquitetura de software, automações, integrações e soluções escaláveis para aplicações web.
 
