@@ -133,15 +133,6 @@ Realizei tarefas de pesquisas e implementação de novas tecnologias em ambiente
 
 ---
 
-## 📊 Estatísticas GitHub
-
-<div>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=andrelinooficial&show_icons=true&theme=radical"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelinooficial&layout=compact&theme=radical"/>
-</div>
-
----
-
 ## 📫 Contato
 
 📧andre@nodigital.com.br 
