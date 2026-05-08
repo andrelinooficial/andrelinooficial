@@ -1,6 +1,6 @@
 <img src="titulo.png">
 <h3 align="center">
-Analista de Tecnologia | Infraestrutura, Desenvolvimento Web & IA
+Analista de Tecnologia | Infraestrutura, desenvolvimento & IA
 </h3>
 
 <br>
