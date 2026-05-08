@@ -1,6 +1,6 @@
 <img src="titulo.png">
 <h3 align="center">
-Analista de Tecnologia | Web Developer | Infraestrutura & IA
+Analista de Tecnologia | Infraestrutura, Desenvolvimento Web & IA
 </h3>
 
 <br>
@@ -10,7 +10,7 @@ Atuo profissionalmente com infraestrutura de TI e desenvolvimento de aplicaçõe
 
 Possuo experiência em projetos envolvendo arquitetura de software, automações, integrações e soluções escaláveis para aplicações web.
 
-Também sou fundador da NODIGITAL, iniciativa voltada para inovação e desenvolvimento de aplicações web, automações e soluções com Inteligência Artificial.
+Também sou fundador da NODIGITAL, iniciativa voltada à inovação e ao desenvolvimento de projetos SaaS utilizando soluções com Inteligência Artificial.
 
 <br>
 
@@ -23,7 +23,7 @@ Também sou fundador da NODIGITAL, iniciativa voltada para inovação e desenvol
 
 ### 🚗 AppDrive — SaaS de Gestão de Locações
 
-Sistema completo para **gestão de locação de automóveis**.
+Sistema SaaS para gestão de locação de veículos, com arquitetura multiempresa, integração Pix e recursos de IA.
 
 🔗 https://appdrive.com.br
 
@@ -48,7 +48,6 @@ Sistema completo para **gestão de locação de automóveis**.
 
 **Resumo de Arquitetura:**
 
-```text
 Cloudflare
 ↓
 Vercel (React)
@@ -56,7 +55,7 @@ Vercel (React)
 Supabase
 ↓
 OpenAI / Groq
-```
+
 
 ---
 
@@ -81,27 +80,26 @@ Aplicação de **comunicação interna para empresas**, distribuída em containe
 
 ---
 
-### 🖥️ Reestruturação de Ambiente — Infraestrutura Híbrida — Regsa Metalúrgica
+### 🖥️ Infraestrutura Híbrida — Regsa Metalúrgica
 
-Projeto de reestruturação do ambiente em parceria com a empresa MDS Cloud (Cloud Privada — Ascenty).
+Atuação em infraestrutura híbrida, virtualização, segurança da informação, containers Docker, redes corporativas e implantação de novas soluções visando redução de custos e modernização do ambiente.
 
-Esse projeto envolveu diversas configurações no ambiente e implementações de tecnologias distintas.
-
-**Principais tecnologias implementadas:**
-- Active Directory + DNS primário + aplicação ERP (Ambiente Cloud)
-- SQL Server para ERP Protheus Totvs (Ambiente Cloud)
-- Servidores de virtualização Proxmox VE (On-premise)
-- Servidor Proxmox Backup Server (On-premise)
-- Servidor Docker Container (On-premise)
-- DNS secundário DNSMasq (On-premise)
-- Proxy NGINX para aplicações (On-premise)
-- Intranet com WordPress (On-premise)
-- Servidor Guacamole para disponibilizar acesso externo via VNC (On-premise)
-- Cloudflare Zero Trust para exposição do Portal Guacamole
-- VM Jitsi Meet para reuniões internas e colaboração (On-premise)
-- Comunicador interno Gajim XMPP (On-premise)
-- VLANs (Rede Visitante / Rede Máquinas / Rede ERP)
-- UniFi Controller + Captive Portal (Rede sem fio)
+**Principais Implementações:**
+- Windows server
+- Active Directory + DNS primário
+- Aplicação ERP- 
+- SQL Server
+- Servidores de virtualização Proxmox VE
+- Servidor Docker Container
+- NGINX Proxy
+- Intranet com WordPress
+- Cloudflare ZeroTrust
+- VPN ZeroTier
+- VM Jitsi Meet
+- VLANs
+- UniFi Controller
+- Zabbix
+- Grafana
 
 ---
 
@@ -123,10 +121,11 @@ Atuação em pesquisas e implementação de novas tecnologias em ambiente híbri
 
 ## 📚 Atualmente Estudando
 
-- DevOps & Agile Culture — FIAP
-- Full Stack Developer — CodeStart
-- Proxmox VE + OPNsense — Projeto Empresa Livre
-- Desenvolvimento e automações com IA — Comunidade Sem Codar
+- DevOps & Cultura Ágil
+- Infraestrutura Open Source
+- OPNsense & Redes Corporativas
+- IA aplicada à Desenvolvimento Web e Automações
+- Ambientes self-hosted
 
 ---
 
@@ -135,59 +134,55 @@ Atuação em pesquisas e implementação de novas tecnologias em ambiente híbri
 ### Infraestrutura & Cloud
 - Linux (Debian / Rocky Linux)
 - Windows Server
-- DNS / DHCP
 - Active Directory
-- Virtualização com Proxmox VE em ambiente Datacenter
-- NAS / Backup
+- Proxmox VE
+- Proxmox Backup Server
 - Microsoft 365
 - NGINX
 - Cloudflare
-- Vercel
 - Azure
-- VPS (Oracle Cloud / HostGator)
+- Oracle Cloud VPS
+- HostGator VPS
 
 ### Redes & Segurança
-- VLAN
-- TCP/IP
+- VLANs
 - UniFi Controller
-- Firewall
+- Cloudflare Zero Trust
 - Zabbix
 - Grafana
 - Bitdefender GravityZone
-- NAS QNAP — Backups
-- Cabeamento estruturado UTP / Fibra Óptica
+- DNSMasq
+- NAS QNAP
 
 ### DevOps & Containers
 - Docker
 - Git
 - GitHub
-- Virtualização
-- Deploy Linux
 - Reverse Proxy
+- Deploy Linux
+- Ambientes self-hosted
 
 ### Desenvolvimento Web
-- HTML
-- CSS
-- JavaScript
 - React
 - TypeScript
 - Tailwind CSS
-- WordPress
 - Node.js
 - Supabase
 - PostgreSQL
 - PHP
-- MySQL
+- WordPress
 
-### Inteligência Artificial
-- LLM / SLM / SSLM
-- Google AI Studio
-- Claude Code
+### IA & Automações
 - OpenAI
-- Qwen
+- Ollama
+- Claude
 - DeepSeek
+- Qwen
 - Gemma
-- Ollama — Local LLM
+- Integração MCPs
+- Automações com IA / n8n
+- Local LLM
+- Google Antigravity
 - Lovable
 
 ---
