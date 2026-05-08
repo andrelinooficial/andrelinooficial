@@ -4,7 +4,7 @@ Analista de Tecnologia / Desenvolvedor Web
 </h3> <br>
 
 <p>
-Atuo profissionalmente como Analista de infraestrutura e desenvolvedor de aplicações Web, Principalmente focado em tecnologias modernas como React + Typescript + Tailwind CSS e BaaS (Supabase).
+Atuo profissionalmente como Analista de infraestrutura e desenvolvedor de aplicações Web, Principalmente focado em tecnologias como React + Typescript + Tailwind CSS e BaaS (Supabase).
 
 Já atuei em diversos projetos envolvendo desenvolvimento e arquitetura de software.
 
@@ -15,7 +15,7 @@ Sou empreendedor Individual, dono do site NODIGITAL, iniciativa focada em inova�
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projetos em destaque
 
 ### 🚗 AppDrive — SaaS Gestão de Locações
 Sistema completo para **gestão de locação de automóveis**.
@@ -37,20 +37,16 @@ Sistema completo para **gestão de locação de automóveis**.
 
 **Principais tecnologias:**
 ***Frontend:***
-- HTML
-- CSS
-- Javascript
-- Typescript
+React + Typescript + Tailwind CSS
 
 ***Backend & Database:***
-- PostgreSQL
-- Supabase (Auth / Storage)
+- Supabase (DB / Auth / Storage)
 ---
 
 ### 💬 CorpChat — Chat Corporativo
 Aplicação de **comunicação interna para empresas**, distribuída em container Docker.
 
-📦 Docker Hub: https://hub.docker.com  
+📦 Docker Hub: [https://hub.docker.com  ](https://hub.docker.com/r/nodigital/corpchat)
 🐳 Deploy simplificado via Docker  
 
 **Principais recursos:**
@@ -79,20 +75,25 @@ Realizei tarefas de pesquisas e implementação de novas tecnologias em ambiente
 
 - DevOps & Agile Culture — FIAP
 - FullStack Developer — CodeStart
-- Proxmox VE — Projeto Empresa Livre
-
+- Proxmox VE + OPNSense — Projeto Empresa Livre
+- Desenvolvimento + Automações com IA - Comunidade Sem Codar
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### Infraestrutura
+### Infraestrutura & Cloud
 - Linux (Debian / Rocky Linux)
 - Windows Server
 - DNS / DHCP
 - Active Directory
-- Virtualização
+- Virtualização Proxmox VE em ambiente datacenter
 - NAS / Backup
 - Microsoft 365
+- Nginx
+- Cladflare
+- Vercel
+- Azure
+- VPS (Oracle, Hostgator)
 
 ### Redes
 - VLAN
@@ -113,10 +114,22 @@ Realizei tarefas de pesquisas e implementação de novas tecnologias em ambiente
 - CSS
 - Javascript
 - React
-- Node.js
-- Bootstrap
+- Typescript
+- Tailwind CSS
 - Wordpress
 - Git / GitHub
+- Node JS
+- Supabase
+- Postgres
+- PHP
+- Mysql
+
+### Inteligência Artificial
+- LLM / SLM / SSLM - (Qwen / Deepseek / Gemma)
+- Google Antigravity - IDE
+- Claude Code
+- Ollama - Local LLM
+- Lovable
 
 ---
 
@@ -132,6 +145,7 @@ Realizei tarefas de pesquisas e implementação de novas tecnologias em ambiente
 ## 📫 Contato
 
 📧andre@nodigital.com.br 
+📧contato@andrelino.dev.br 
 
 📱 WhatsApp  
 (11) 98364-1085
