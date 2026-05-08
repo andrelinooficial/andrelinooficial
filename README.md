@@ -1,4 +1,4 @@
-<img src="titulo.png" style="height: 30px;">
+<img src="titulo.png" style="height: 50px;">
 <h3 >
 Analista de Tecnologia | Infraestrutura, desenvolvimento & IA
 </h3>
