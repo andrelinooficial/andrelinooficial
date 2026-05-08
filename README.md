@@ -1,6 +1,6 @@
 <img src="titulo.png">
 <h3 align="center">
-Analista de Tecnologia / Desenvolvedor Web
+Analista de Tecnologia | Web Developer | Infraestrutura & IA
 </h3> <br>
 
 <p>
@@ -35,12 +35,21 @@ Sistema completo para **gestão de locação de automóveis**.
 - Inteligência Artificial embarcada (Groq / OpenAI GPT)
 - Plataforma SaaS Multiempresa (Multi-tenant)
 
-**Principais tecnologias:**
-***Frontend:***
-React + Typescript + Tailwind CSS
+**Stack:**
+- React
+- Typescript
+- Tailwind
+- Supabase
 
-***Backend & Database:***
-- Supabase (DB / Auth / Storage)
+  **Resumo de Arquitetura:**
+Cloudflare
+↓
+Vercel (React)
+↓
+Supabase
+↓
+OpenAI/Groq
+
 ---
 
 ### 💬 CorpChat — Chat Corporativo
@@ -55,10 +64,15 @@ Aplicação de **comunicação interna para empresas**, distribuída em containe
 - Comunicação em tempo real com possibilidade de envio de anexos
 - Deploy rápido em containers
 - Ideal para ambientes empresariais Simples
-- 
+
+**Stack:**
+- React
+- Typescript
+- Tailwind
+- Postgres
 ---
 
-## 💼 Experiências Anteriores
+## 💼 Experiências
 
 - 🌐 Suporte de TI — Hospital Geral de Itapevi
 Realizei tarefas de suporte a usuários em ambiente de rede Microsoft
@@ -95,21 +109,26 @@ Realizei tarefas de pesquisas e implementação de novas tecnologias em ambiente
 - Azure
 - VPS (Oracle, Hostgator)
 
-### Redes
+### Redes e Segurança
 - VLAN
 - TCP/IP
 - Unifi Controller
-- Configuração de Switches e Roteadores
-- Cabeamento estruturado
-
-### Monitoramento & Segurança
+- Firewall
 - Zabbix
 - Grafana
-- BitDefender GravityZone
-- Políticas de segurança
-- Firewall
+- BitDefender Gravityzone
+- NAS Qnap - Backups
+- Cabeamento estruturado UTP / Fibra óptica
 
-### Desenvolvimento
+### DevOps & Containers
+- Docker
+- Git
+- Github
+- Virtualização
+- Deploy Linux
+- Reverse Proxy
+
+### Desenvolvimento Web
 - HTML
 - CSS
 - Javascript
@@ -117,7 +136,6 @@ Realizei tarefas de pesquisas e implementação de novas tecnologias em ambiente
 - Typescript
 - Tailwind CSS
 - Wordpress
-- Git / GitHub
 - Node JS
 - Supabase
 - Postgres
@@ -125,9 +143,13 @@ Realizei tarefas de pesquisas e implementação de novas tecnologias em ambiente
 - Mysql
 
 ### Inteligência Artificial
-- LLM / SLM / SSLM - (Qwen / Deepseek / Gemma)
+- LLM / SLM / SSLM
 - Google Antigravity - IDE
 - Claude Code
+- OpenIA
+- Qwen
+- Deepseek
+- Gema
 - Ollama - Local LLM
 - Lovable
 
@@ -139,4 +161,4 @@ Realizei tarefas de pesquisas e implementação de novas tecnologias em ambiente
 📧contato@andrelino.dev.br 
 
 📱 WhatsApp  
-(11) 98364-1085
+[(11) 98364-1085](https://wa.me/5511983641085)
