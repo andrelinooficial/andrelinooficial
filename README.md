@@ -72,6 +72,28 @@ Aplicação de **comunicação interna para empresas**, distribuída em containe
 - Postgres
 ---
 
+### 🖥️ Reestruturação de ambiente - Infraestrutura Híbrida - Regsa Metalúrgica
+Projeto de Reestruturação do ambiente em parceria com a empresa MDS Cloud (Cloud Privada - Ascenty).
+Esse projeto envolveu diversas configurações no ambiente e implementações de tecnologias distintas.
+
+**Principais tecnologias implementadas:**
+
+- Active Directpry + DNS Primário + Aplicação ERP (Ambiente Cloud)
+- SQL Server para ERP Protheus Totvs (Ambiente Cloud)
+- Servidores de Virtualização Proxmox VE (Onpremisse)
+- Servidor Proxmox Backup Server (Onpremisse)
+- Servidore Docker Container (Onpremisse)
+- DNS Secundário DNSMasq (Onpremisse)
+- Proxy NGINX para aplicações (Onpremisse)
+- intranet com wordpress (Onpremisse)
+- Servidor Guacamole para disponibilizar acesso externo via VNC  (Onpremisse)
+- Cloudflare Zerotrust para expor Portal Guacamole
+- VM Jitsi Meet para reuniões internas e colaboração (Onpremisse)
+- Comunicador interno Gajin XMPP  (Onpremisse)
+- VLANs (Rede Visitante / Rede máquinas / Rede ERP)
+- Unifi Controler + Captive portal (Rede Sem fio)
+---
+
 ## 💼 Experiências
 
 - 🌐 Suporte de TI — Hospital Geral de Itapevi
