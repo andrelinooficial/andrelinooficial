@@ -4,11 +4,11 @@ Analista de Tecnologia / Desenvolvedor Web
 </h3> <br>
 
 <p>
-Atuo profissionalmente como Analista de infraestrutura e desenvolvedor de aplicações Web, Principalmente focado em tecnologias como React + Typescript + Tailwind CSS e BaaS (Supabase).
+Atuo profissionalmente com infraestrutura de TI e desenvolvimento de aplicações web modernas, com foco em React, TypeScript, Tailwind CSS e arquiteturas BaaS utilizando Supabase.
 
-Já atuei em diversos projetos envolvendo desenvolvimento e arquitetura de software.
+Possuo experiência em projetos envolvendo arquitetura de software, automações, integrações e soluções escaláveis para aplicações web.
 
-Sou empreendedor Individual, dono do site NODIGITAL, iniciativa focada em inovação, desenvolvendo Aplicações Web e automações com Inteligência Artificial. <br>
+Também sou fundador da NODIGITAL, iniciativa voltada para inovação e desenvolvimento de aplicações web, automações e soluções com Inteligência Artificial. <br>
 
 🔗 https://nodigital.com.br  
 </p>
