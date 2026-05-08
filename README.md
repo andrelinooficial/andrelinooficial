@@ -1,14 +1,14 @@
 <img src="titulo.png">
 <h3 align="center">
-Analista de TI - Empreendedor
+Analista de Tecnologia / Desenvolvedor Web
 </h3> <br>
 
 <p>
-Profissional de Tecnologia com mais de 10 anos de experiência em infraestrutura, cloud computing, redes, Cibersegurança e desenvolvimento de aplicações.
+Atuo profissionalmente como Analista de infraestrutura e desenvolvedor de aplicações Web, Principalmente focado em tecnologias modernas como React + Typescript + Tailwind CSS e BaaS (Supabase).
 
-Desenvolvedor de soluções SaaS voltadas à automação de processos empresariais com uso de tecnologias modernas e Inteligência Artificial.
+Já atuei em diversos projetos envolvendo desenvolvimento e arquitetura de software.
 
-Empreendedor Individual, fundador da NODIGITAL, iniciativa focada em inovação e desenvolvimento de soluções tecnológicas. <br>
+Sou empreendedor Individual, dono do site NODIGITAL, iniciativa focada em inovação, desenvolvendo Aplicações Web e automações com Inteligência Artificial. <br>
 
 🔗 https://nodigital.com.br  
 </p>
