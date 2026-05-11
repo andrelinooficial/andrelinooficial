@@ -74,112 +74,30 @@ Aplicação de **comunicação interna para empresas**, distribuída em containe
 
 ---
 
-### 🖥️ Infraestrutura Híbrida — Regsa Metalúrgica
 
-Atuação em infraestrutura híbrida, virtualização, segurança da informação, containers Docker, redes corporativas e implantação de novas soluções visando redução de custos e modernização do ambiente.
 
-**Principais Implementações:**
-- Windows server
-- Active Directory + DNS primário
-- Aplicação ERP- 
-- SQL Server
-- Servidores de virtualização Proxmox VE
-- Servidor Docker Container
-- NGINX Proxy
-- Intranet com WordPress
-- Cloudflare ZeroTrust
-- VPN ZeroTier
-- VM Jitsi Meet
-- VLANs
-- UniFi Controller
-- Zabbix
-- Grafana
+### 💬 DevinPay — SaaS de automação financeira com IA
 
----
+Posicionamento: **DevinPay - Payments driven by AI.**
 
-## 💼 Experiências
+🔗 https://devinpay.com
 
-### 🌐 Suporte de TI — Hospital Geral de Itapevi
+**Principais recursos:**
+- Cobranças Recorrentes
+- Geração de Pix
+- Envio de cobranças via whatsapp
+- Acompanhamento financeiro
+- Lembretes automáticos
 
-Realização de tarefas de suporte a usuários em ambiente Microsoft.
-
-### 🌐 Assistente de TI — Hospital Infantil Sabará
-
-Atuação em gestão de TI, apoio em análise de contratos, custos de infraestrutura e gestão de equipe.
-
-### 🌐 Analista de TI — Regsa Metalúrgica
-
-Atuação em pesquisas e implementação de novas tecnologias em ambiente híbrido, segurança da informação, sempre com foco em melhoria contínua e redução de custos de infraestrutura.
-
----
-
-## 📚 Atualmente Estudando
-
-- DevOps & Cultura Ágil
-- Infraestrutura Open Source
-- OPNsense & Redes Corporativas
-- IA aplicada à Desenvolvimento Web e Automações
-- Ambientes self-hosted
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-### Infraestrutura & Cloud
-- Linux (Debian / Rocky Linux)
-- Windows Server
-- Active Directory
-- Proxmox VE
-- Proxmox Backup Server
-- Microsoft 365
-- NGINX
-- Cloudflare
-- Azure
-- Oracle Cloud VPS
-- HostGator VPS
-
-### Redes & Segurança
-- VLANs
-- UniFi Controller
-- Cloudflare Zero Trust
-- Zabbix
-- Grafana
-- Bitdefender GravityZone
-- DNSMasq
-- NAS QNAP
-
-### DevOps & Containers
-- Docker
-- Git
-- GitHub
-- Reverse Proxy
-- Deploy Linux
-- Ambientes self-hosted
-
-### Desenvolvimento Web
+**Stack:**
 - React
 - TypeScript
 - Tailwind CSS
-- Node.js
-- Supabase
 - PostgreSQL
-- PHP
-- WordPress
-
-### IA & Automações
 - OpenAI
-- Ollama
-- Claude
-- DeepSeek
-- Qwen
-- Gemma
-- Integração MCPs
-- Automações com IA / n8n
-- Local LLM
-- Google Antigravity
-- Lovable
 
 ---
+
 
 ## 📫 Contato
 
